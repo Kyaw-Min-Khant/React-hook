@@ -1,0 +1,1 @@
+const array=["a", "b", "c", "d", "e", "f","a","c","b"]
